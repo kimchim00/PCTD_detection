@@ -1,0 +1,40 @@
+{
+  "frequencies": {
+    "next_state": 4.54752726602954e-06,
+    "load_shiftRegH": 3.9341049345001336e-09,
+    "rst_bitCountH": 3.9341049345001336e-09,
+    "state": 4.54752726602954e-06,
+    "countEnaH": 4.327515427950147e-08,
+    "bitCell_cntrH": 2.2918754176261016e-05,
+    "ena_bitCountH": 3.147283947600107e-08,
+    "shiftEnaH": 3.147283947600107e-08,
+    "bitCountH": 1.77034722052506e-08,
+    "xmit_ShiftRegH": 1.7792883681034694e-08,
+    "rstCountH": 2.5631289724773594e-09,
+    "cntr_resetH": 4.508186216684539e-06,
+    "rec_data_cntrH_3": 2.2639581745037813e-06,
+    "shiftH": 2.0505031779818875e-08,
+    "countH": 2.0505031779818875e-08,
+    "recd_bitCntrH": 1.1534080376148118e-08,
+    "rec_data_cntrH_2": 2.5631289724773594e-09
+  },
+  "transition_counts": {
+    "next_state": 152582,
+    "load_shiftRegH": 132,
+    "rst_bitCountH": 132,
+    "state": 152582,
+    "countEnaH": 1452,
+    "bitCell_cntrH": 768987,
+    "ena_bitCountH": 1056,
+    "shiftEnaH": 1056,
+    "bitCountH": 594,
+    "xmit_ShiftRegH": 597,
+    "rstCountH": 86,
+    "cntr_resetH": 151262,
+    "rec_data_cntrH_3": 75962,
+    "shiftH": 688,
+    "countH": 688,
+    "recd_bitCntrH": 387,
+    "rec_data_cntrH_2": 86
+  }
+}

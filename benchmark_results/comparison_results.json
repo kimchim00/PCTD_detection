@@ -1,0 +1,42 @@
+{
+  "RS232-T100": {
+    "benchmark": "RS232-T100",
+    "timestamp": "2026-01-07T06:25:48.721684",
+    "status": "no_vcd",
+    "vcd_file": null,
+    "src_dir": "C:\\Users\\kimia\\Desktop\\vhdl_PCTD\\benchmark_results\\RS232-T100\\extracted\\RS232-T100\\src",
+    "error": "VCD file not found - run simulation first"
+  },
+  "RS232-T1000": {
+    "benchmark": "RS232-T1000",
+    "timestamp": "2026-01-07T06:25:48.750274",
+    "status": "error",
+    "vcd_file": null,
+    "src_dir": "C:\\Users\\kimia\\Desktop\\vhdl_PCTD\\benchmark_results\\RS232-T1000\\extracted\\RS232-T1000\\src",
+    "error": "uart.v not found"
+  },
+  "RS232-T200": {
+    "benchmark": "RS232-T200",
+    "timestamp": "2026-01-07T06:25:48.774541",
+    "status": "no_vcd",
+    "vcd_file": null,
+    "src_dir": "C:\\Users\\kimia\\Desktop\\vhdl_PCTD\\benchmark_results\\RS232-T200\\extracted\\RS232-T200\\src",
+    "error": "VCD file not found - run simulation first"
+  },
+  "RS232-T500": {
+    "benchmark": "RS232-T500",
+    "timestamp": "2026-01-07T06:25:48.799242",
+    "status": "no_vcd",
+    "vcd_file": null,
+    "src_dir": "C:\\Users\\kimia\\Desktop\\vhdl_PCTD\\benchmark_results\\RS232-T500\\extracted\\RS232-T500\\src",
+    "error": "VCD file not found - run simulation first"
+  },
+  "RS232-T700": {
+    "benchmark": "RS232-T700",
+    "timestamp": "2026-01-07T06:25:48.826214",
+    "status": "no_vcd",
+    "vcd_file": null,
+    "src_dir": "C:\\Users\\kimia\\Desktop\\vhdl_PCTD\\benchmark_results\\RS232-T700\\extracted\\RS232-T700\\src",
+    "error": "VCD file not found - run simulation first"
+  }
+}

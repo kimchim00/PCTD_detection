@@ -1,0 +1,105 @@
+================================================================================
+TRANSITION FREQUENCY ANALYSIS REPORT
+================================================================================
+
+VCD File: C:\Users\kimia\Desktop\uart_sim.vcd
+Simulation Time: 33552740000 1ns
+Total Signals: 36
+DFF Signals Identified: 17
+
+STATISTICS:
+  Transition Counts:
+    Min: 2
+    Max: 13421096
+    Avg: 415488.89
+
+  Frequencies:
+    Min: 5.960765e-11
+    Max: 4.000000e-04
+    Avg: 1.238316e-05
+
+  Signals with zero transitions: 0
+
+--------------------------------------------------------------------------------
+ALL SIGNALS (Top 50 by transition count)
+--------------------------------------------------------------------------------
+Signal Name                                  Transitions       Frequency
+--------------------------------------------------------------------------------
+sys_clk                                         13421096    4.000000e-04
+bitCell_cntrH                                     768987    2.291875e-05
+next_state                                        152582    4.547527e-06
+state                                             152582    4.547527e-06
+cntr_resetH                                       151262    4.508186e-06
+rec_data_cntrH_3                                   75962    2.263958e-06
+rec_readyH_temp                                    75301    2.244258e-06
+rec_readyH                                         75301    2.244258e-06
+rec_readyInH                                       75300    2.244228e-06
+countEnaH                                           1452    4.327515e-08
+ena_bitCountH                                       1056    3.147284e-08
+shiftEnaH                                           1056    3.147284e-08
+shiftH                                               688    2.050503e-08
+countH                                               688    2.050503e-08
+xmit_ShiftRegH                                       597    1.779288e-08
+bitCountH                                            594    1.770347e-08
+recd_bitCntrH                                        387    1.153408e-08
+uart_XMIT_dataH                                      372    1.108702e-08
+uart_xmitH                                           372    1.108702e-08
+xmit_doneH                                           266    7.927818e-09
+xmitH                                                264    7.868210e-09
+xmitDataSelH                                         198    5.901157e-09
+j                                                    144    4.291751e-09
+load_shiftRegH                                       132    3.934105e-09
+rst_bitCountH                                        132    3.934105e-09
+xmit_doneInH                                         132    3.934105e-09
+xmit_dataH                                           130    3.874497e-09
+uart_REC_dataH                                        86    2.563129e-09
+uart_dataH                                            86    2.563129e-09
+rec_datSyncH                                          86    2.563129e-09
+rstCountH                                             86    2.563129e-09
+rec_datH                                              86    2.563129e-09
+rec_data_cntrH_2                                      86    2.563129e-09
+i                                                     33    9.835262e-10
+data                                                  16    4.768612e-10
+sys_rst_l                                              2    5.960765e-11
+
+--------------------------------------------------------------------------------
+DFF SIGNALS ONLY
+--------------------------------------------------------------------------------
+Signal Name                                  Transitions       Frequency
+--------------------------------------------------------------------------------
+bitCell_cntrH                                     768987    2.291875e-05
+next_state                                        152582    4.547527e-06
+state                                             152582    4.547527e-06
+cntr_resetH                                       151262    4.508186e-06
+rec_data_cntrH_3                                   75962    2.263958e-06
+countEnaH                                           1452    4.327515e-08
+ena_bitCountH                                       1056    3.147284e-08
+shiftEnaH                                           1056    3.147284e-08
+shiftH                                               688    2.050503e-08
+countH                                               688    2.050503e-08
+xmit_ShiftRegH                                       597    1.779288e-08
+bitCountH                                            594    1.770347e-08
+recd_bitCntrH                                        387    1.153408e-08
+load_shiftRegH                                       132    3.934105e-09
+rst_bitCountH                                        132    3.934105e-09
+rstCountH                                             86    2.563129e-09
+rec_data_cntrH_2                                      86    2.563129e-09
+
+--------------------------------------------------------------------------------
+WARNING: SUSPICIOUS LOW-ACTIVITY DFF SIGNALS
+    (Less than 10% of average: 7696.05 transitions)
+--------------------------------------------------------------------------------
+Signal Name                                  Transitions        % of Avg
+--------------------------------------------------------------------------------
+rstCountH                                             86           0.02%
+rec_data_cntrH_2                                      86           0.02%
+load_shiftRegH                                       132           0.03%
+rst_bitCountH                                        132           0.03%
+recd_bitCntrH                                        387           0.09%
+bitCountH                                            594           0.14%
+xmit_ShiftRegH                                       597           0.14%
+shiftH                                               688           0.17%
+countH                                               688           0.17%
+ena_bitCountH                                       1056           0.25%
+shiftEnaH                                           1056           0.25%
+countEnaH                                           1452           0.35%

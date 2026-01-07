@@ -1,0 +1,22 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module u_rec
+ERROR: [VRFC 10-3195] cannot open include file '/home/salmani_h/Trust_HUB/Trojan_Inserted/inc.h' [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:18]
+ERROR: [VRFC 10-2989] 'r_START' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:94]
+ERROR: [VRFC 10-2989] 'HI' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:102]
+ERROR: [VRFC 10-2989] 'LO' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:103]
+ERROR: [VRFC 10-2989] 'LO' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:104]
+ERROR: [VRFC 10-2989] 'LO' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:105]
+ERROR: [VRFC 10-2989] 'LO' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:106]
+ERROR: [VRFC 10-2989] 'r_START' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:110]
+ERROR: [VRFC 10-2989] 'r_CENTER' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:111]
+ERROR: [VRFC 10-2989] 'r_START' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:113]
+ERROR: [VRFC 10-2989] 'HI' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:114]
+ERROR: [VRFC 10-2989] 'HI' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:115]
+ERROR: [VRFC 10-2989] 'r_CENTER' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:119]
+ERROR: [VRFC 10-2989] 'r_WAIT' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:121]
+ERROR: [VRFC 10-2989] 'r_START' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:122]
+ERROR: [VRFC 10-2989] 'r_CENTER' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:124]
+ERROR: [VRFC 10-2989] 'LO' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:125]
+ERROR: [VRFC 10-2989] 'r_WAIT' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:130]
+ERROR: [VRFC 10-2989] 'WORD_LEN' is not declared [C:/Users/kimia/Desktop/vhdl_PCTD/benchmark_results/RS232-T100/extracted/RS232-T100/src/u_rec.v:132]
+INFO: [#UNDEF] Sorry, too many errors..

@@ -1,0 +1,63 @@
+================================================================================
+RS232 BENCHMARK TROJAN DETECTION - COMPARISON REPORT
+================================================================================
+
+Generated: 2026-01-07 06:25:48
+Total benchmarks tested: 5
+
+--------------------------------------------------------------------------------
+SUMMARY TABLE
+--------------------------------------------------------------------------------
+Benchmark            Status       DFFs     Suspects   Trojans   
+--------------------------------------------------------------------------------
+RS232-T100           no_vcd       N/A      N/A        N/A       
+RS232-T1000          error        N/A      N/A        N/A       
+RS232-T200           no_vcd       N/A      N/A        N/A       
+RS232-T500           no_vcd       N/A      N/A        N/A       
+RS232-T700           no_vcd       N/A      N/A        N/A       
+
+================================================================================
+DETAILED RESULTS
+================================================================================
+
+--------------------------------------------------------------------------------
+BENCHMARK: RS232-T100
+--------------------------------------------------------------------------------
+Status: NO VCD FILE
+Error: VCD file not found - run simulation first
+Action required: Run simulation for this benchmark
+
+--------------------------------------------------------------------------------
+BENCHMARK: RS232-T1000
+--------------------------------------------------------------------------------
+Status: ERROR
+Error: uart.v not found
+
+--------------------------------------------------------------------------------
+BENCHMARK: RS232-T200
+--------------------------------------------------------------------------------
+Status: NO VCD FILE
+Error: VCD file not found - run simulation first
+Action required: Run simulation for this benchmark
+
+--------------------------------------------------------------------------------
+BENCHMARK: RS232-T500
+--------------------------------------------------------------------------------
+Status: NO VCD FILE
+Error: VCD file not found - run simulation first
+Action required: Run simulation for this benchmark
+
+--------------------------------------------------------------------------------
+BENCHMARK: RS232-T700
+--------------------------------------------------------------------------------
+Status: NO VCD FILE
+Error: VCD file not found - run simulation first
+Action required: Run simulation for this benchmark
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+1. Successfully analyzed: 0/5 benchmarks
+2. Benchmarks with detected trojans: 0
+3. For benchmarks without VCD files, run simulations first
+4. Review detailed reports for each benchmark in subdirectories

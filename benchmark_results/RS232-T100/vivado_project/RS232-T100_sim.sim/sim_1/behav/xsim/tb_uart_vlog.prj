@@ -1,0 +1,12 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../../extracted/RS232-T100/src/u_rec.v" \
+"../../../../../extracted/RS232-T100/src/u_xmit.v" \
+"../../../../../extracted/RS232-T100/src/uart.v" \
+"../../../../../../../../../project_1/project_1.srcs/sources_1/new/tb_uart_clean.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,27 @@
+================================================================================
+PCTD HARDWARE TROJAN DETECTION REPORT
+================================================================================
+
+Verilog File: C:\Users\kimia\Downloads\RS232-T100\RS232-T100\src\uart.v
+Transition Data: dff_transition_frequencies.json
+Detection Threshold: Bottom 10% of activity
+
+--------------------------------------------------------------------------------
+ANALYSIS SUMMARY
+--------------------------------------------------------------------------------
+Total signals analyzed: 17
+Suspicious signals found: 0
+Trojan candidates (DFF signals): 0
+Average transitions: 76960.53
+
+--------------------------------------------------------------------------------
+NO TROJAN CANDIDATES DETECTED
+--------------------------------------------------------------------------------
+All DFF signals show normal activity levels.
+
+================================================================================
+RECOMMENDATIONS
+================================================================================
+1. Circuit shows normal transition patterns
+2. Consider testing with different stimuli for comprehensive coverage
+3. No immediate Trojan indicators detected
